@@ -178,20 +178,18 @@ http://localhost:8501
 
 ## 📸 Application Screenshot
 
-Add your application screenshot here.
+<img width="1048" height="652" alt="image" src="https://github.com/user-attachments/assets/f3d2f624-62ef-4f95-99f3-bf87136d38e4" />
 
-```text
-assets/screenshot.png
-```
+<img width="1015" height="645" alt="image" src="https://github.com/user-attachments/assets/92485855-ddec-47b5-8eed-613a5f9e11a3" />
 
----
+
 
 ## 👨‍💻 Author
 
 **Shivmohan Chaurasia**
 
-* LinkedIn: [Your LinkedIn Profile]
-* GitHub: [Your GitHub Profile]
+* LinkedIn: https://www.linkedin.com/in/shivmohan0035/
+* GitHub: https://github.com/shivmohan0035
 
 ---
 
@@ -201,5 +199,3 @@ assets/screenshot.png
 * Scikit-Learn Documentation
 * Streamlit Documentation
 * NLTK Documentation
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
